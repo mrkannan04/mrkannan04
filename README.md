@@ -1,69 +1,83 @@
-Act as a senior GitHub profile designer and software engineer.
+<h1 align="left">Hey 👋 I'm Kannan R</h1>
 
-Create a modern, professional, and ATS-friendly GitHub profile README for me.
+###
 
-My details:
+<p align="left">
+🎓 M.Sc. Computer Science Graduate <br>
+💻 Aspiring MERN Stack Developer <br>
+📍 Tamil Nadu, India
+</p>
 
-Name: Kannan R
-Education: M.Sc. Computer Science
-Role: Aspiring MERN Stack Developer
-Location: Tamil Nadu, India
+###
 
-Tech Stack:
-- JavaScript
-- HTML5
-- CSS3
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- Git
-- GitHub
-- Postman
-- AWS  (Basic)
+<h2 align="left">👨‍💻 About me</h2>
 
+###
 
-Projects:
-1. NexDuty – On-Demand Local Service Marketplace
-2. Local Mart – Smart Local Shopping & Inventory Management System
-3. Campus Complaint Community System
-4. Personal Portfolio Website
-5. Love proposal site
+<p align="left">
+✨ Building full-stack web applications using the MERN Stack.<br>
+📚 Currently learning advanced React.js, Node.js, Express.js, MongoDB, and AWS.<br>
+🚀 Developing real-world projects to strengthen my skills.<br>
+🎯 Goal: To become a Full Stack Software Engineer and contribute to scalable web applications.<br>
+💡 Interested in Web Development, REST APIs, Cloud, and Backend Development.
+</p>
 
-Requirements:
-- Modern GitHub Profile README
-- Attractive banner section
-- Professional introduction
-- About Me section
-- Tech stack with icons
-- GitHub stats
-- Streak stats
-- Most used languages
-- Featured projects section
-- Connect with me section
-- Portfolio, LinkedIn, Email and GitHub links
-- Visitor badge
-- Typing animation
-- Clean dark theme
-- Responsive markdown
-- Professional layout similar to top GitHub developers
-- Do not use unnecessary emojis.
-- Use shields.io badges.
-- Use markdown only.
-- Make it recruiter-friendly and suitable for a MERN Stack fresher looking for Software Developer opportunities.## Hi there 👋
+###
 
-<!--
-**mrkannan04/mrkannan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">🛠️ Tech Stack</h2>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws"/>
+</div>
+
+###
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+###
+
+📌 **NexDuty** — On-Demand Local Service Marketplace  
+📌 **Local Mart** — Smart Local Shopping & Inventory Management System  
+📌 **Personal Portfolio Website** — Responsive MERN Portfolio
+
+###
+
+<h2 align="left">📫 Connect with me</h2>
+
+###
+
+<p align="left">
+<a href="https://github.com/mrkannan04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
